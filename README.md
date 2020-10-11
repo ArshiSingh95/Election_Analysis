@@ -31,6 +31,8 @@ Raymon Anthony Doane: 3.1% (11,606 votes received)
 
 The winner of this election was:
 Dianna DeGette with 73.8% of the total votes and 272,892 received.
+![]Resources/election_analysis)
+
 
 ## Challenge Summary
 This script was useful in getting the requirerd insights from the data set. This could've been done through excel as well but this code can be reused for doing this type of analysis. If Tom provides a new data set with the same column script we can quickly provide Tom with insights.
